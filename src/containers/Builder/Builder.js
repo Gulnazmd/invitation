@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
 import MainPhoto from '../../components/MainPhoto/MainPhoto';
 import './Builder.css';
-import shadow from '../../../images/_82x.png';
-import form from '../../../images/_6.svg';
-import form2 from '../../../images/_7.svg'
+import shadow from '../../images/_82x.png';
+import form from '../../images/_6.svg';
+import form2 from '../../images/_7.svg';
 
 class Builder extends Component {
 
