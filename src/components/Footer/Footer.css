@@ -1,0 +1,22 @@
+.Footer {
+    margin-left: 20px;
+}
+.Icons {
+    width:  15%;
+    height: 70px;
+    text-align: right;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+.Social {
+    width: 40px;
+    height: 40px;
+}
+ul {
+    list-style: none;
+    width: 10%;
+}
+li {
+    color: #9D9D9D;
+}

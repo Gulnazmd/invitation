@@ -16,10 +16,10 @@
 }
 .Shadow {
     position: absolute;
-    width: 300px;
+    width: 400px;
     height: 300px;
     right: 1px;
-    top: 40%;
+    top: 47%;
 }
 @media screen and (max-width: 900px) {
     .Form {

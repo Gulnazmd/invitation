@@ -1,5 +1,6 @@
 
 import './App.css';
+import Footer from './components/Footer/Footer';
 import Builder from './containers/Builder/Builder';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
       <header className="App-header">
         <Builder/>
       </header>
+      <Footer/>
     </div>
   );
 }
